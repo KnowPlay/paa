@@ -1,7 +1,7 @@
-langchain
-wikipedia
-langchain-community
-langchain-openai
-langchain-anthropic
-python-dotenv
-pydantic
+langchain # Core framework for LLM applications.
+wikipedia # Access and parse Wikipedia content.
+langchain-community # Third-party LangChain integrations.
+langchain-openai # LangChain integration for OpenAI models.
+langchain-anthropic # LangChain integration for Anthropic models.
+python-dotenv # Load environment variables from .env files.
+pydantic # Data validation and settings management.
